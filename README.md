@@ -2,6 +2,8 @@
 
 A simple container that runs a logstash with the aws amazon plugin
 
+The default input is listening in port 5000/udp so you sould enable udp port redirection.
+
 ## Environment variables 
 
 To make work the default config you need to set the next environment variables
