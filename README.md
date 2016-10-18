@@ -1,4 +1,4 @@
-# Docker Logstash with amazon ES pluginh 
+# Docker Logstash with amazon ES plugin
 
 A simple container that runs a logstash with the aws amazon plugin
 
